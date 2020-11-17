@@ -2,6 +2,7 @@ import  React from 'react'
 import {Navbar} from "react-bootstrap";
 
 const NavBar = (props) => {
+    console.log("hello")
 
     return(
 <Navbar bg="light" expand="lg">
